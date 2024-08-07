@@ -5,9 +5,9 @@
 
 `pnpm dev` ou `npm run dev`
 
-Mais detalhes sobre essa API da Web no diretório `./spec/`
+Mais detalhes sobre essa API da Web no diretório `./docs/`
 
-[Especificação](./spec/index.html)
+[Documentação](./docs/index.html)
 
 
 
